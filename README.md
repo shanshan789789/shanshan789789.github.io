@@ -5,5 +5,5 @@
 <strong>Authors:</strong>
 <em>Dongliang Wang, Lizhao Ge, Shanshan Zhang</em>
 <p> Below is the 3D structure of hemoglobin </p>
-![hemoglobin structure]("https://github.com/shanshan789789/shanshan789789.github.io/blob/main/image/hemoglobin%20structure.jpeg?raw=true")  
+![hemoglobin structure]("/image/hemoglobin%20structure.jpeg")  
 <p> The picture is from <strong>Protein Data Bank</strong> <p>
